@@ -1,6 +1,6 @@
 [![demo link](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/liuderchi/next.js/tree/play%2Fexamples-in-sandboxes/examples/examples-in-sandboxes)
 
-# Hello World example
+# NextJS Examples List
 
 This example shows the most basic idea behind Next. We have 2 pages: `pages/index.js` and `pages/about.js`. The former responds to `/` requests and the latter to `/about`. Using `next/link` you can add hyperlinks between them with universal routing capabilities. The `day` directory shows that you can have subdirectories.
 
